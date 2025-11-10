@@ -23,7 +23,7 @@ repository               : "esther-sanchez/esther-sanchez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/mesb_pic.jpg"
   name             : "M. Esther Sanchez Bolaños"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics & Public Policy"
