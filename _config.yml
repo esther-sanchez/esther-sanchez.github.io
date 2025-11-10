@@ -23,7 +23,7 @@ repository               : "esther-sanchez/esther-sanchez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "M. Esther Sanchez Bolaños"
-  avatar: "/images/mesb_pic.jpeg"
+  avatar: ""
   bio: "PhD Student in Economics & Public Policy"
   location: "Ann Arbor, MI"
   employer: "University of Michigan"
