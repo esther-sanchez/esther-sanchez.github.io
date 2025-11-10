@@ -22,15 +22,13 @@ repository               : "esther-sanchez/esther-sanchez.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/mesb_pic.jpeg"
-  name             : "M. Esther Sanchez Bolaños"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Economics & Public Policy"
-  location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
-  uri              : # URL
-  email            : "mesb@umich.edu" 
+  name: "M. Esther Sanchez Bolaños"
+  avatar: "/images/mesb_pic.jpeg"
+  bio: "PhD Student in Economics & Public Policy"
+  location: "Ann Arbor, MI"
+  employer: "University of Michigan"
+  email: "mesb@umich.edu"
+
 
   # Academic websites
   academia         : # URL
