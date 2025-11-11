@@ -9,9 +9,8 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
+- title: "Home"
+    url: /
     
-  # - title: "CV"
-  #   url: /cv-json/
-
+- title: "CV"
+    url: /cv/
