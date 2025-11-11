@@ -7,7 +7,7 @@ author_profile: true
 
 ## Download
 
-[Download my CV here](/files/mesb_cv_2025.pdf){: .btn .btn--primary}
+[Download CV Here](/files/mesb_cv_2025.pdf){: .btn .btn--primary}
 
 ---
 
