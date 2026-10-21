@@ -2,7 +2,6 @@
 permalink: /
 title: "Welcome!"
 author_profile: true
-author: mesb
 ---
 I am a PhD student in the Joint Public Policy and Economics program at the University of Michigan. My research interests include informal economies, the political economy of crime, and survey methods in applied economics.
 
